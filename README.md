@@ -20,8 +20,6 @@ sistema:
 ```
 
 - 🧠 Aprendendo **Programação Orientada a Objetos** de forma profunda — não só sintaxe, mas o *porquê* das decisões de design
-- ⚡ Gosto de entender o sistema por baixo do capô antes de confiar nele
-
 ---
 
 ## `>_` TECH STACK
